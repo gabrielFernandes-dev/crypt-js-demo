@@ -12,7 +12,7 @@ Basic demonstration of some cryptography methods.
 npm i
 ```
 
-# Hasing
+# Hashing
 
 Run hashing tests
 
