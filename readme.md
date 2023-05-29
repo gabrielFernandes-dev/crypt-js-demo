@@ -6,6 +6,12 @@ Basic demonstration of some cryptography methods.
 
 ---
 
+# Installing
+
+``` 
+npm i
+```
+
 # Hasing
 
 Run hashing tests
